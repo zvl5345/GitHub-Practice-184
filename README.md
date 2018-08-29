@@ -29,7 +29,7 @@
 
 # Class GitHub Table 
 
-|Name                     |GitHub ID             |website for a GitHub repo                                | 
+|Name          |GitHub ID             |website for a GitHub repo                                | 
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |
 | Zheng Zhang | SecantZhang | <https://secantzhang.github.io/STAT184-PRACTICE-REPO/> | 
